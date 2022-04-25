@@ -2,6 +2,10 @@
 
 Small scraper to collect word data from <https://www.englishprofile.org/wordlists/evp>
 
+Data:
+
+see [englishprofile.json](./englishprofile.json) for word previews and [worddata.json](./worddata.json) for full dataset (last scraped 2022-04-24)
+
 Install:
 
 ```
