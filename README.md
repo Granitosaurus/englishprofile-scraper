@@ -5,7 +5,7 @@ Small scraper to collect word data from <https://www.englishprofile.org/wordlist
 Install:
 
 ```
-$ pip install git+
+$ pip install git+https://github.com/Granitosaurus/englishprofile-scraper.git
 ```
 
 run:
